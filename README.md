@@ -65,7 +65,8 @@ Ampliar el simulador para permitir la visualización gráfica de autómatas.
 --
 ## Ejecución del Proyecto
 
-Desde la carpeta del proyecto:
+
+Desde la carpeta del proyecto en el siguiente drive :https://drive.google.com/file/d/1MEhA-8zUQOs1fOfNHDppJ03Ba9-sNKAM/view?usp=sharing
 
 `bash
 cd afd_simulator_project
